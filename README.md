@@ -1,6 +1,7 @@
 <div align="center">
 <br><br>
- 
+ <img src="assets/nsnake.gif" alt="banner" width="100%"/>
+
 ## Hi there 👋👋
 
 I'm **Lyub**, Software Development Diploma @ SAIT (Graduating this april), from Canada.
@@ -13,6 +14,9 @@ Key projects: **USBAI** (a fully offline AI on a USB stick that organizes your d
 collectors and gamers). 
 
 Open to collaborations on GitHub / LinkedIn
+
+ [MyGameList — Top Games](https://my-game-list-ashy.vercel.app/top-games) 
+ USB-AI: Under heavy development
 
 <br>
     <td>
