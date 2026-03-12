@@ -12,7 +12,7 @@ Experienced in building scalable Discord bots, database-driven apps, and innovat
 Key projects: **USBAI** (a fully offline AI on a USB stick that organizes your desktop, executes tasks autonomously, and runs locally without internet); **MyGameList** (a game tracking platform inspired by MyAnimeList, for 
 collectors and gamers). 
 
-Open to collaborations on GitHub 
+Open to collaborations on GitHub / LinkedIn
 
 <br>
     <td>
