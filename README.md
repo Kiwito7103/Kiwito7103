@@ -1,3 +1,5 @@
+<br><br>
+<pre>
 ## Hi there 👋👋
 
 I'm Lyub, Software Development Diploma @ SAIT (Graduating this april), from Canada.
@@ -9,3 +11,10 @@ Experienced in building scalable Discord bots, database-driven apps, and innovat
 Key projects: USBAI (a fully offline AI on a USB stick that organizes your desktop, executes tasks autonomously, and runs locally without internet); MyGameList (a game tracking platform inspired by MyAnimeList, for 
 
 collectors and gamers). Open to collaborations on GitHub 
+
+</pre>
+<br>
+    <td>
+      <img src="assets/kyubey.gif" alt="kyubey" width="150"/>
+    </td>
+<br><br>
