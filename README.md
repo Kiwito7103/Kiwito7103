@@ -1,5 +1,6 @@
+<div align="center">
 <br><br>
-<pre>
+ 
 ## Hi there 👋👋
 
 I'm Lyub, Software Development Diploma @ SAIT (Graduating this april), from Canada.
@@ -12,9 +13,9 @@ Key projects: USBAI (a fully offline AI on a USB stick that organizes your deskt
 
 collectors and gamers). Open to collaborations on GitHub 
 
-</pre>
 <br>
     <td>
       <img src="assets/kyubey.gif" alt="kyubey" width="150"/>
     </td>
 <br><br>
+</div>
